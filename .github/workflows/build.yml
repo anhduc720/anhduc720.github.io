@@ -26,3 +26,4 @@ jobs:
           BASE_BRANCH: develop
           BRANCH: master
           FOLDER: dist
+          GA_ID: UA-166323198-1
