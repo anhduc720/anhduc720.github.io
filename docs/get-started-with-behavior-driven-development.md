@@ -34,3 +34,22 @@ When [event occurs],
 Then [ensure some outcomes].
 ```
 ## Vậy, Ưu điểm của BDD là gì
+Nó đưa các bên liên quan và nhóm phát triển với những góc nhìn khác nhau vào chung một vị trí và đảm bảo rằng tất cả sẽ có cùng một mong đợi.
+
+Mục tiêu của BDD là một ngôn ngữ domain-specific và có thể đọc hiểu nghiệp vụ cho phép bạn mô tả hành vi của một hệ thống mà không cần phải giải thích hành vi đó được thực hiện ra sao.
+
+Các Test viết dưới dạng văn bản thuần túy mô tả các tính năng và các tính huống, được viết trước tiên và được xác nhận bởi các bên phi kỹ thuật (QA, BA, Client...) Các Test này được viết dưới dạng ngôn ngữ tự nhiên. Vì vậy, không cần thiết phải có bất cứ kỹ năng lập trình nào để có thể viết hay hiểu được chúng. Các BA có thể tích cực tham gia vào quá trình xem xét các thử nghiệm tự động và đưa ra các phản hồi của họ để cải thiện chúng.
+
+BDD giúp tập trung vào nhu cầu của người dùng và các hành vi mong đợi của hệ thống, thay vì việc quá tập trung vào kiểm tra việc implement tính năng.
+
+Nó thu hút các team về sản phẩm, team QA, team BA và team phát triển vào cùng một chỗ, cung cấp nền tảng để giải quyết sự khác biệt về quan điểm. Do đó, nó đảm bảo rằng các bên liên quan có cùng kỳ vọng. Sự hợp tác này giữa các bên liên quan sẽ tạo ra một bộ tiêu chí tốt và rõ ràng.
+
+## Tất nhiên, Nó sẽ có nhược điểm
+Trong một số trường hợp, các test case được viết bởi Manual Tester, Khách Hàng, BA chưa đủ tốt để thực hiện tự động, Vì vậy có thể cần thiết một số effort để làm các case này thích hợp cho việc thực thi tự động
+
+Khái niệm về BDD là tương đối mới, cộng đồng hỗ trợ hiện tại chưa đủ lớn nên có thể sẽ mất nhiều thời gian để xử lý các vấn đề kỹ thuật phát sinh
+
+## Công cụ
+* Cucumber
+* Behat
+* Ginko, Godog
