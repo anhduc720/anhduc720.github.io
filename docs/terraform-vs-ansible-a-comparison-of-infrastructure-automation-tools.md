@@ -1,5 +1,5 @@
 ---
-title: Terraform vs Ansible: A Comparison of Infrastructure Automation Tools
+title: "Terraform vs Ansible: A Comparison of Infrastructure Automation Tools"
 date: 2023-02-10 08:29:53
 slug: terraform-vs-ansible-a-comparison-of-infrastructure-automation-tools
 tags: ["terraform", "ansible", "devops", "automation"]
