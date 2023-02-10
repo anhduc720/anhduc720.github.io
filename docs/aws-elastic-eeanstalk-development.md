@@ -4,7 +4,6 @@ date: 2018-09-15 07:42:34
 slug: aws-elastic-eeanstalk-development
 tags: ["aws-elastic", "development"]
 status: active
-desc: ""
 ---
 
 ## EB-CLI Installer

@@ -4,7 +4,6 @@ date: 2019-03-12 19:36:53
 slug: high-performance-load-balancing-with-nginx
 tags: ["nginx", "load balancer", "reverse proxy"]
 status: active
-desc: ""
 ---
 Hiện nay, trải nghiệm người dùng internet yêu cầu hiệu năng và thời gian hoạt động. Để đáp ứng những điều này, nhiều instance của cùng một hệ thống được chạy, và tải được phân phối tới chúng. Khi lượng tải tăng lên. Thêm một instance khác được khởi động và đưa vào hệ thống để chia một phần tải, kỹ thuật của kiến trúc này được gọi là mở rộng theo chiều ngang (horizontal scaling). Cơ sở hạ tầng dựa trên phần mềm đang ngày càng phổ biến vì tính linh hoạt của nó, mở ra một thế giới rộng lớn về khả năng. Cho dù trường hợp sử dụng nhỏ như chỉ cần 2 instance hoặc lớn như hàng ngàn instance trên toàn cầu, thì cũng cần một giải pháp cân bằng tải năng động như cơ sở hạ tầng. NGINX đáp ứng nhu cầu này theo một số cách, chẳng hạn như cân bằng tải HTTP, TCP và UDP, mà tôi đề cập trong bài viết này.
 
