@@ -6,7 +6,6 @@ tags: ["terraform", "ansible", "devops", "automation"]
 status: active
 desc: "Infrastructure automation is a critical aspect of modern DevOps and cloud computing. There are several tools available for infrastructure automation, each with its own strengths and weaknesses. Two of the most popular tools are Terraform and Ansible. In this article, we'll compare Terraform and Ansible to help you determine which tool is best for your infrastructure automation needs."
 ---
-# Terraform vs Ansible: A Comparison of Infrastructure Automation Tools
 Infrastructure automation is a critical aspect of modern DevOps and cloud computing. There are several tools available for infrastructure automation, each with its own strengths and weaknesses. Two of the most popular tools are Terraform and Ansible. In this article, we'll compare Terraform and Ansible to help you determine which tool is best for your infrastructure automation needs.
 
 ## Terraform
