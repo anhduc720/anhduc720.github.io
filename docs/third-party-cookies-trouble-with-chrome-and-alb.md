@@ -2,9 +2,9 @@
 title: Third Party Cookies Trouble With Chrome And AWS ALB
 date: 2022-06-28 10:15:53
 slug: third-party-cookies-trouble
-tags: ["aws", "alb", "cookies", "iframe]
+tags: ["aws", "alb", "cookies", "iframe"]
 status: active
-desc: ""
+desc: "I have worked with a system that allows the client to create contact forms and embed them on a customer's site."
 ---
 
 ## The Bug
